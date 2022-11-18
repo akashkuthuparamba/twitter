@@ -20,6 +20,7 @@
   cursor: pointer;
   border-radius: 16px;
   background-color: rgb(49, 49, 145);
+  margin-left: 100px;
 }
 #link{
     color: white;
@@ -32,11 +33,32 @@
 
 }
 
-#caption{
-    margin-top: 0%;
-    padding-top: 0%;
-}
+
 #btn{
     margin-top: 0%;
     margin-left: 200px;
+}
+#cmnt{
+    margin-top: 5%;
+}
+#cmnt:hover{
+    color: blue;
+}
+#retweet{
+    margin-top: 5%;
+}
+#retweet:hover{
+    color: rgb(26, 173, 26);
+}
+
+#love{
+    margin-top: 5%;
+}
+
+#love:hover{
+    color: red;
+}
+
+#right:hover{
+    background-color: rgb(28, 27, 30);
 }
